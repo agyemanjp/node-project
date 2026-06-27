@@ -1,2 +1,2 @@
-# apptools.sh
-Software delivery lifecycle orchestrator for building, testing, deploying, &amp; installing various output targets in Typescript projects
+# NodeProject
+Software delivery lifecycle CLI providing standardized and opinionated workflows for bootstrapping, building, testing, deploying, and installing Node.js-compatible projects
